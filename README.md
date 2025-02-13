@@ -1,9 +1,11 @@
 # Amazon-Sales-Dashboard-using-Excel
 
-Amazon Sales Dashboard Summary
-1. Total Revenue
+**Amazon Sales Dashboard Summary**
+
+**1. Total Revenue**
 •	The total revenue generated from sales is ₹10,226,625.
-2. Top-Performing Products
+
+**2. Top-Performing Products**
 •	The best-selling products contributing significantly to revenue are:
 1.	Nestle Smarties Pop-Up – ₹1,588,831
 2.	Nestle Fab – ₹1,379,740

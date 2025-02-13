@@ -1,6 +1,6 @@
 # Amazon-Sales-Dashboard-using-Excel
 
-**Amazon Sales Dashboard Summary**
+## **Amazon Sales Dashboard Summary**
 
 **1. Total Revenue -** 
 

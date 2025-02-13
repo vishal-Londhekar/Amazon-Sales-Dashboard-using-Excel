@@ -2,12 +2,12 @@
 
 ## **Amazon Sales Dashboard Summary**
 
-**1. Total Revenue -** 
+### **1. Total Revenue -** 
 
 • The total revenue generated from sales is ₹10,226,625.
 
 
-**2. Top-Performing Products -** 
+### **2. Top-Performing Products -** 
 
 • The best-selling products contributing significantly to revenue are:
 
@@ -21,7 +21,7 @@
 
    **5.	Nestle Toffee Crumble –** ₹1,072,377
 
-**3. Best Sales Representatives -** 
+### **3. Best Sales Representatives -** 
 
 • The top sales representatives based on revenue contribution:
 
@@ -35,7 +35,7 @@
 
    **5.	Drew Rogers –** ₹322,985
 
-**4. Regional Sales Performance -**
+### **4. Regional Sales Performance -**
 
 •	The North Region achieved the highest sales, while the East Region had the lowest:
 
@@ -47,7 +47,7 @@
 
    **4.	East:** ₹1,671,823
 
-**5. Monthly Sales Trends -**
+### **5. Monthly Sales Trends -**
 
 •	Sales performance for the first five months of the year shows fluctuations:
 
@@ -61,7 +61,7 @@
 
    **5.	May:** ₹159,982
 
-**Key Observations -**
+### **Key Observations -**
 
   ✅ Nestle Smarties Pop-Up is the most profitable product.
   

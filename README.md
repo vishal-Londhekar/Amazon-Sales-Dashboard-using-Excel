@@ -39,27 +39,27 @@
 
 •	The North Region achieved the highest sales, while the East Region had the lowest:
 
-   **o	North:** ₹3,655,726
+   **1.	North:** ₹3,655,726
 
-   **o	West:** ₹3,118,347
+   **2.	West:** ₹3,118,347
 
-   **o	South:** ₹1,780,729
+   **3.	South:** ₹1,780,729
 
-   **o	East:** ₹1,671,823
+   **4.	East:** ₹1,671,823
 
-   **5. Monthly Sales Trends -**
+**5. Monthly Sales Trends -**
 
 •	Sales performance for the first five months of the year shows fluctuations:
 
-   **o	January:** ₹166,293
+   **1.	January:** ₹166,293
 
-   **o	February:** ₹131,601
+   **2.	February:** ₹131,601
 
-   **o	March:** ₹137,902
+   **3.	March:** ₹137,902
 
-   **o	April:** ₹153,421
+   **4.	April:** ₹153,421
 
-   **o	May:** ₹159,982
+   **5.	May:** ₹159,982
 
 **Key Observations -**
 

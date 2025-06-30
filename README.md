@@ -37,5 +37,3 @@ This dashboard helps stakeholders:
 - Compare product-wise performance
 - Identify regional strengths and weaknesses
 - Make data-driven decisions without needing advanced tools
-
-## 📂 File Structure

@@ -28,9 +28,6 @@ To create a fully functional **Excel dashboard** that analyzes company sales per
   - Boost marketing in low-performing regions
   - Increase stock of top 3 products in high-demand states
 
-## 📸 Dashboard Preview
-*(Insert a screenshot of your Excel Dashboard here)*
-
 ## 💼 Business Impact
 This dashboard helps stakeholders:
 - Quickly track sales KPIs

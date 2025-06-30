@@ -1,73 +1,41 @@
-# Amazon-Sales-Dashboard-using-Excel
+# 📊 Excel-Based Sales Performance Dashboard
 
-## **Amazon Sales Dashboard Summary**
+## 📌 Objective
+To create a fully functional **Excel dashboard** that analyzes company sales performance, tracks KPIs, and highlights product and regional insights.
 
-### **1. Total Revenue -** 
+## 📂 Dataset Summary
+- File: `Sales Data.xlsx`
+- Sheets Used:
+  - `Final Working`: Contains cleaned data and KPI metrics
+  - `DashBoard`: Designed Excel dashboard with visuals
+- Key Columns:
+  - Products, Units Sold, State, City, Sales Amount
+  - KPI: Actual Sales vs Target Sales
 
-• The total revenue generated from sales is ₹10,226,625.
+## 🧰 Tools & Features Used
+- **Excel**:
+  - Pivot Tables & Charts
+  - Conditional Formatting
+  - Formulas (SUMIFS, VLOOKUP, IF)
+  - Dynamic KPI Boxes
+  - Clean visual dashboard layout
 
+## 📈 Key Metrics & Insights
+- 📉 **Total Sales vs Target**: ₹10.2 Cr vs ₹12.5 Cr (~19% gap)
+- 🏆 **Top Product**: Nestle Fab with high sales in Delhi
+- 🌍 **Best Performing Region**: Delhi, Agra, Ahmedabad
+- 📌 **Recommendations**:
+  - Boost marketing in low-performing regions
+  - Increase stock of top 3 products in high-demand states
 
-### **2. Top-Performing Products -** 
+## 📸 Dashboard Preview
+*(Insert a screenshot of your Excel Dashboard here)*
 
-• The best-selling products contributing significantly to revenue are:
+## 💼 Business Impact
+This dashboard helps stakeholders:
+- Quickly track sales KPIs
+- Compare product-wise performance
+- Identify regional strengths and weaknesses
+- Make data-driven decisions without needing advanced tools
 
-   **1.	Nestle Smarties Pop-Up –** ₹1,588,831
-
-   **2.	Nestle Fab –** ₹1,379,740
-
-   **3.	Nestle Milky Bar Stick –** ₹1,293,337
-   
-   **4.	Nestle Aero Mint Potz –** ₹1,252,203
-
-   **5.	Nestle Toffee Crumble –** ₹1,072,377
-
-### **3. Best Sales Representatives -** 
-
-• The top sales representatives based on revenue contribution:
-
-   **1.	Shari Silva –** ₹408,287
-
-   **2.	Rachel Gomez –** ₹341,627
-
-   **3.	Robert Munoz –** ₹332,530
-
-   **4.	Max Rodgers –** ₹331,986
-
-   **5.	Drew Rogers –** ₹322,985
-
-### **4. Regional Sales Performance -**
-
-•	The North Region achieved the highest sales, while the East Region had the lowest:
-
-   **1.	North:** ₹3,655,726
-
-   **2.	West:** ₹3,118,347
-
-   **3.	South:** ₹1,780,729
-
-   **4.	East:** ₹1,671,823
-
-### **5. Monthly Sales Trends -**
-
-•	Sales performance for the first five months of the year shows fluctuations:
-
-   **1.	January:** ₹166,293
-
-   **2.	February:** ₹131,601
-
-   **3.	March:** ₹137,902
-
-   **4.	April:** ₹153,421
-
-   **5.	May:** ₹159,982
-
-### **Key Observations -**
-
-  ✅ Nestle Smarties Pop-Up is the most profitable product.
-  
-  ✅ Shari Silva leads in individual sales performance.
-  
-  ✅ North Region is the strongest sales region.
-  
-  ✅ There is a fluctuating trend in monthly sales, indicating possible seasonality.
-
+## 📂 File Structure

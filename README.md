@@ -28,15 +28,25 @@ To create a fully functional **Excel dashboard** that analyzes company sales per
   - Boost marketing in low-performing regions
   - Increase stock of top 3 products in high-demand states
 
-
-## 👤 Author
-**Vishal Londhekar**  
-🎓 Certified Data Analyst/Data Scientist | B.Tech in Mechanical Engineering  
-📫 [LinkedIn](https://www.linkedin.com/in/vishal-londhekar)
-
 ## 💼 Business Impact
 This dashboard helps stakeholders:
 - Quickly track sales KPIs
 - Compare product-wise performance
 - Identify regional strengths and weaknesses
 - Make data-driven decisions without needing advanced tools
+
+
+## 👤 Author
+**Vishal Londhekar**  
+🎓 Certified Data Analyst/Data Scientist | B.Tech in Mechanical Engineering  
+📫 [LinkedIn](https://www.linkedin.com/in/vishal-londhekar)
+
+
+
+
+
+
+
+
+
+
